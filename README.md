@@ -13,8 +13,8 @@ Develop an iOS app for users to take pictures of invasive species of insects in 
 <img src="https://i.imgur.com/vYDZ3OK.gif" width="300" height="600">
 
 ### Map
-<img src="https://i.imgur.com/VRLqr05.gif" width="300" height="600">
-https://imgur.com/VRLqr05
+<img src="https://i.imgur.com/vvNvKbr.gif" width="300" height="600">
+
 ### Species
 <img src="https://i.imgur.com/ZGTSx9t.gif" width="300" height="600">
 
