@@ -13,19 +13,16 @@ Develop an iOS app for users to take pictures of invasive species of insects in 
 <img src="https://i.imgur.com/vYDZ3OK.gif" width="300" height="600">
 
 ### Map
-<img src="https://i.imgur.com/vvNvKbr.gif" width="300" height="600">
+<img src="https://i.imgur.com/WOC9MFK.gif" width="300" height="600">
 
 ### Species
 <img src="https://i.imgur.com/ZGTSx9t.gif" width="300" height="600">
 
-### Submissions
-<img src="https://i.imgur.com/FI4K7wv.gif" width="300" height="600">
-
-### Profile / Settings
-<img src="https://i.imgur.com/mTWoJfN.gif" width="300" height="600">
+### Profile / Submissions / Settings
+<img src="https://i.imgur.com/FI4K7wv.gif" width="300" height="600">  <img src="https://i.imgur.com/mTWoJfN.gif" width="300" height="600">
 
 ### Add Report / Image Recognition
-<img src="https://i.imgur.com/xpiBNy4.gif" width="300" height="600"><img src="https://i.imgur.com/vc82Oc7.gif" width="300" height="600">
+<img src="https://i.imgur.com/xpiBNy4.gif" width="300" height="600">  <img src="https://i.imgur.com/vc82Oc7.gif" width="300" height="600">
 
 ## API Reference
 |        API        |    Description   | Request Parameters | Response Body |
