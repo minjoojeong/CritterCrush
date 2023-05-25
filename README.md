@@ -2,12 +2,14 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-2. [Wireframes](#Wireframes)
-3. [API Reference](#API_Reference)
+2. [Demo](#Demo)
+3. [Wireframes](#Wireframes)
+4. [API Reference](#API_Reference)
 
 ## Overview
 ### Description
 Develop an iOS app for users to take pictures of invasive species of insects in NY, identify them using image recognition and upload reports to an online database. The app will be built for more casual use with extras such as social features and associated rewards for uploading reports.
+Group project done for Hunter College Capstone CSCI499
 
 ## Demo
 <img src="https://i.imgur.com/vYDZ3OK.gif" width="300" height="600">
